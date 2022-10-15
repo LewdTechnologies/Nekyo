@@ -1,0 +1,10 @@
+{
+    "imports" : {
+        
+        "MediaTypes" : "https://deno.land/std@0.159.0/media_types/mod.ts" ,
+        "Async" : "https://deno.land/std@0.159.0/async/mod.ts" ,
+        "Path" : "https://deno.land/std@0.159.0/path/mod.ts" ,
+        
+        "WebView" : "https://deno.land/x/webview@0.7.5/mod.ts"
+    }
+}

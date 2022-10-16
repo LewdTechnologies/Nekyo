@@ -1,0 +1,8 @@
+{
+    "imports" : {
+        
+        "Flags" : "https://deno.land/std@0.142.0/flags/mod.ts" ,
+        "Files" : "https://deno.land/std@0.159.0/fs/mod.ts" ,
+        "Path" : "https://deno.land/std@0.159.0/path/mod.ts"
+    }
+}

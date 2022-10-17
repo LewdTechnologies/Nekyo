@@ -1,7 +1,7 @@
 
 import { join } from 'Path'
 
-import Path from './Paths.js'
+import * as Path from './Paths.js'
 
 
 const { log } = console;
@@ -84,7 +84,7 @@ async function handleHTTPRequest ( exchange ){
     if(pathname === '/')
         pathname = 'index.html';
     
-    const path = join(Path.Interface,decodeURIComponent(pathname));
+    const path = join(Path.Frontend,decodeURIComponent(pathname));
     
     log('Serving File:',path);
     

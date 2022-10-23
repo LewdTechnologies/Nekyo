@@ -9,7 +9,7 @@
 
 <br>
 
-1.   Setup your local environment.
+1.  Setup your local environment.
 
     <br>
     
